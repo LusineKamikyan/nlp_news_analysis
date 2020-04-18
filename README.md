@@ -1,2 +1,1 @@
-# nlp_news_analysis
-I used topic modeling algorithms to analyze news articles, used dimensionality reduction to visualize the news publications in 2 dimensional space, used classification algorithms to predict the publication of an article. This was project 4 of Metis Data Science Bootcamp.
+I am working on uploading the code files of this project. In the meantime check out my code for Pet Adoption and hard drive failure projects I completed in Metis and  my code for hw and project of Deep Learning class at Purdue (BME 595)
